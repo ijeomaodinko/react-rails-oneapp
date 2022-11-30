@@ -94,29 +94,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-
-### Key Features <a name="key-features"></a>
-
-- **Authorization of users**
-- **Adding of categories and expenses**
-- **Authentication of users**
-
-
-<p align="center">
-  <img src="erd_diagram.png" alt="ERD diagram" />
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](https://sheltered-shore-56941.herokuapp.com/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -127,11 +104,11 @@ Open your console. Run the following
 
 If you are using HTTPS
 
-    "git clone https://github.com/ijeomaodinko/Budget-app.git
+    "git clone https://github.com/ijeomaodinko/react-rails-app.git
 
 If you are using a SSH key.
 
-    "git clone https://github.com/ijeomaodinko/Budget-app.git
+    "git clone https://github.com/ijeomaodinko/react-rails-app.git
 
 
 Press ENTER to create your local clone. After creating it, you can open the app through the open folder in Vscode or typing   `cd blog-app`    on the terminal 
@@ -162,15 +139,6 @@ Clone this repository to your desired folder:
 
 Open it by accessing http://localhost:3000/ on your browser.
 
-### To Run Test
-To install rspec in the terminal:
-
-    $ gem install rspec
-
-To run tests, run this command
-
-    $ rspec ./spec/#{filename}_spec.rb
-    
 
 ### Create, Drop and, Reset a Database
 
@@ -186,9 +154,6 @@ To run tests, run this command
 
     rails generate controller NAME [action action] [options]
     
-### Deployment
-
-You can deploy this project using: Heroku
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
