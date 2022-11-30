@@ -198,10 +198,9 @@ Give a ⭐️ if you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
- I appropriate credit to Gregoire Vella on Behance the author of the original design, as required by the Creative Commons license of the design
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
