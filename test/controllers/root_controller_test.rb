@@ -1,8 +1,6 @@
-# frozen_string_literal: true
-
 require 'test_helper'
 
-class GreetingTest < ActiveSupport::TestCase
+class RootControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end

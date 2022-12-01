@@ -4,6 +4,7 @@ import { fetchGreeting } from './redux/greeting';
 
 const Greeting = () => {
 const greetingRender = useSelector((state) => state.greetingReducer.message);
+console.log(message)
 const dispatch = useDispatch();
 
     return(
