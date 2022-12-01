@@ -11,7 +11,7 @@ const dispatch = useDispatch();
         <div className='container'>
         <h1>Random Greeting</h1>
         <p>{greetingRender.message}</p>
-        <button type="button" onClick={() => dispatch(fetchGreeting())}> Another Greeting</>
+        <button type="button" onClick={() => dispatch(fetchGreeting())}> Another Greeting</button>
         </div>
     )
 }
